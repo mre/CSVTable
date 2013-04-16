@@ -1,5 +1,5 @@
 {
-    "name": "mre/CSVTable",
+    "name": "mre/csvtable",
     "type": "library",
     "description": "Convert CSV strings to Markdown tables",
     "keywords": ["php","parser","parsing","csv","markdown", "table"],
