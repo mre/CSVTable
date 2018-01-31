@@ -4,7 +4,7 @@
     "description": "Convert CSV strings to Markdown tables",
     "keywords": ["php","parser","parsing","csv","markdown", "table"],
     "homepage": "http://www.matthias-endler.de",
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Matthias Endler",
