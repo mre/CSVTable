@@ -3,13 +3,13 @@ CSVTable
 
 This creates a Markdown table out of CSV input.
 
-##Input
+## Input
 
       First Header,Second Header
       Cell,Content Cell
       Content Cell,Another one
 
-##Output
+## Output
 
       First Header|Second Header
       ------------|-------------
